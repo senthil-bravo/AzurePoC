@@ -183,3 +183,5 @@ FakesAssemblies/
 *.userprefs
 
 .DS_Store
+application/cache
+AzurePoC/.vs/*
