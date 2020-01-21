@@ -8,7 +8,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AzurePoC" expanded="True">
-            <Node name="AzurePoC" expanded="True" />
+            <Node name="AzurePoC" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
