@@ -185,3 +185,10 @@ FakesAssemblies/
 .DS_Store
 application/cache
 AzurePoC/.vs/*
+AzurePoC/.vs/AzurePoC/xs/project-cache/AzurePoC-Debug.json
+AzurePoC/AzurePoC.Android/Resources/Resource.designer.cs
+AzurePoC/.vs/AzurePoC/xs/UserPrefs.xml
+AzurePoC/.vs/AzurePoC/xs/sqlite3/storage.ide
+AzurePoC/.vs/AzurePoC/xs/project-cache/AzurePoC.iOS-Debug|iPhoneSimulator.json
+AzurePoC/.vs/AzurePoC/xs/project-cache/AzurePoC.Android-Debug.json
+AzurePoC/.vs/AzurePoC/xs/project-cache/AzurePoC-Debug.json

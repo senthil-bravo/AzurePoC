@@ -1,24 +1,15 @@
-﻿<Properties StartupConfiguration="{107E9EA6-30A2-4F3A-82A2-F6AD20ECC1A3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AzurePoC/App.xaml.cs">
+﻿<Properties StartupConfiguration="{4BED3B90-005B-4A6D-8559-00749C24D6DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzurePoC.iOS/Info.plist">
     <Files>
-      <File FileName="AzurePoC/Views/AboutPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="AzurePoC/Views/AboutPage.xaml" Line="1" Column="1" />
-      <File FileName="AzurePoC.Android/Resources/values/styles.xml" />
-      <File FileName="AzurePoC.iOS/AppDelegate.cs" Line="6" Column="1" />
-      <File FileName="AzurePoC.Android/Properties/AndroidManifest.xml" />
       <File FileName="AzurePoC/App.xaml.cs" Line="19" Column="1" />
+      <File FileName="AzurePoC/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="AzurePoC.iOS/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AzurePoC" expanded="True" selected="True">
-            <Node name="AzurePoC" expanded="True">
-              <Node name="App.xaml" expanded="True" />
-            </Node>
-            <Node name="AzurePoC.Android" expanded="True">
-              <Node name="Properties" expanded="True" />
-            </Node>
-            <Node name="AzurePoC.iOS" expanded="True" />
+          <Node name="AzurePoC" expanded="True">
+            <Node name="AzurePoC.iOS" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -26,7 +17,8 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.AzurePoC.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AzurePoC.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-0014186E34A1002E" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
